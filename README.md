@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Arthur 👋
 
-- 🌱 Atualmente estou estudando JavaScript, HTML e CSS
+- 🌱 Atualmente estou estudando Python
 - 📫 Contate-me no email: contatoarthuralbuquerquedev@gmail.com
 
 <div align="center">
