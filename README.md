@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur 👋
+### Olá! Eu me chamo Arthur 👋
 
 - 🌱 Atualmente estou estudando JavaScript, HTML e CSS
 - 📫 Contate-me no email: contatoarthuralbuquerquedev@gmail.com
