@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/arthur-albuquerque1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-albuquerque1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-albuquerque1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-albuquerque1&vision-friendly-dark"/>
 </div>
 <div>
   <img align="center" alt="art-Py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
